@@ -1,3 +1,3 @@
 # Statistics
 
-Stuff related to the Stitistics course.
+Stuff related to the Statistics course.
